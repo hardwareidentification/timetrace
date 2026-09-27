@@ -69,5 +69,4 @@ The compiled binary will be generated in the dist/ directory.
 Disclaimer
 This tool is designed strictly for competitive gaming integrity verification, authorized screenshares, server administration, and digital forensic research.
 
-Credits
 Developed and maintained by @hardwareidentification.
